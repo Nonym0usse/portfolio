@@ -1,32 +1,17 @@
 [
   {
-    "title": "Performances & rapidité",
-    "description": "Des sites ultra-rapides grâce à Next.js, pour améliorer l’expérience utilisateur et booster le référencement.",
+    "title": "Développement de sites web",
+    "description": "Création de sites vitrines, blogs, e-commerces et applications web personnalisées. ",
     "delay": ".2s"
   },
   {
-    "title": "Design responsive & moderne",
-    "description": "Interfaces soignées, 100% adaptatives, optimisées pour mobile, tablette et desktop.",
+    "title": "Applications mobiles",
+    "description": "Développement d’applications mobiles hybrides pour Android et iOS.",
     "delay": ".25s"
   },
   {
-    "title": "Gestion simple du contenu",
-    "description": "Intégration possible avec un CMS Headless pour vous permettre de gérer vos contenus facilement, sans développeur.",
+    "title": "API REST",
+    "description": "Conception et mise en place d’API REST sécurisées pour assurer l’interopérabilité entre vos services.",
     "delay": ".3s"
-  },
-  {
-    "title": "Sécurité & fiabilité",
-    "description": "Données protégées, authentification sécurisée, bonnes pratiques backend : votre projet est entre de bonnes mains.",
-    "delay": ".35s"
-  },
-  {
-    "title": "Code sur-mesure & évolutif",
-    "description": "Pas de thème tout fait. Chaque ligne de code est pensée pour votre besoin réel, prête à évoluer avec vous.",
-    "delay": ".4s"
-  },
-  {
-    "title": "Accompagnement complet",
-    "description": "De la stratégie à la mise en ligne, vous avez un seul interlocuteur, réactif et à l’écoute de vos objectifs.",
-    "delay": ".45s"
   }
 ]

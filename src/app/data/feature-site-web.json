@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Design & Ergonomie",
+    "description": "Offrez à vos utilisateurs et/ou internautes un design alliant esthétique et expérience utilisateur inouïe.",
+    "delay": ".2s"
+  },
+  {
+    "title": "Sécurité",
+    "description": "Vos données sont importantes.Nous faisons de la sécurité et de l’intégrité de vos données une priorité.",
+    "delay": ".25s"
+  },
+  {
+    "title": "Visibilité sur le web",
+    "description": "Apparaître dans les résultats de recherche, c’est bien. Apparaître devant ses concurrents, c’est mieux.",
+    "delay": ".3s"
+  },
+  {
+    "title": "Hébergement & Suivi",
+    "description": "Concentrez-vous sur votre entreprise : nous vous proposons d’héberger votre projet et de veiller sur lui selon vos besoins.",
+    "delay": ".3s"
+  },
+  {
+    "title": "Compatibilité",
+    "description": "Plus de 50% du trafic web est constitué par les smartphones. Single Quote vous propose des solutions parfaitement adaptées aux PC, mobiles et tablettes.",
+    "delay": ".3s"
+  },
+  {
+    "title": "Technologie",
+    "description": "Je vous propose une panoplie de technologies permettant la réalisation de sites et applications web et saura vous aider à faire les bons choix.",
+    "delay": ".3s"
+  }
+]

@@ -17,7 +17,7 @@ export default function Features({ featureData }: { featureData?: IFeatureData[]
                         Ce que je vous apporte concrètement
                     </h2>
                     <p className="text-dark-text text-base">
-                        En tant que développeur web freelance, je vous livre bien plus qu’un site. Voici 6 raisons de me faire confiance pour votre projet digital.
+                        En tant que développeur web fullstack, je propose des solutions sur mesure pour répondre aux besoins spécifiques de chaque client.
                     </p>
                 </div>
 
@@ -43,7 +43,7 @@ export default function Features({ featureData }: { featureData?: IFeatureData[]
                                     </p>
                                 </div>
                             </div>
-                        </div>))}
+                        </div>
                     ))}
                 </div>
             </div>

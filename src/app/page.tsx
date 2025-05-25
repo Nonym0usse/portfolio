@@ -20,7 +20,6 @@ export default function Home() {
       <Hero />
       <Features featureData={featureDataIntroduction} />
       <About />
-      <Team />
       <Portfolio />
       <Testimonials />
       <Features featureData={featureDataSkills} />

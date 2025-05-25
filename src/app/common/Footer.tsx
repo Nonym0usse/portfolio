@@ -10,19 +10,16 @@ export default function Footer() {
                         <div className="mb-20 max-w-[330px]">
                             <a href="index.html" className="mb-6 inline-block">
                                 <img
-                                    src="./images/logo/logo-dark.svg"
+                                    src="/images/logo/logo-dark.svg"
                                     alt="logo"
                                     className="hidden h-[50px] dark:block"
                                 />
-                                <img
-                                    src="./images/logo/logo-light.svg"
-                                    alt="logo"
-                                    className="h-[50px] dark:hidden"
-                                />
+                               
                             </a>
 
                             <p className="text-dark-text mb-10 text-base">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                                Marseille, 13002 - France<br />
+                                Email: <a href="mailto:cyril.vella13@gmail.com">cyril.vella13@gmail.com</a>
                             </p>
                             <div className="flex items-center space-x-5">
                                 <a
@@ -106,7 +103,7 @@ export default function Footer() {
                             <h3
                                 className="font-heading text-dark mb-9 text-2xl font-medium dark:text-white"
                             >
-                                Company
+                                Services
                             </h3>
 
                             <ul className="space-y-4">
@@ -115,7 +112,7 @@ export default function Footer() {
                                         href="javascript:void(0)"
                                         className="font-heading text-dark-text hover:text-primary text-base dark:hover:text-white"
                                     >
-                                        Home
+                                        Site internet
                                     </a>
                                 </li>
                                 <li>
@@ -123,7 +120,7 @@ export default function Footer() {
                                         href="javascript:void(0)"
                                         className="font-heading text-dark-text hover:text-primary text-base dark:hover:text-white"
                                     >
-                                        Product
+                                        Application Mobile
                                     </a>
                                 </li>
                                 <li>
@@ -131,20 +128,7 @@ export default function Footer() {
                                         href="javascript:void(0)"
                                         className="font-heading text-dark-text hover:text-primary text-base dark:hover:text-white"
                                     >
-                                        Careers
-                                        <span
-                                            className="bg-primary font-heading ml-4 rounded-sm px-2 py-1 text-xs text-white"
-                                        >
-                                            Hiring
-                                        </span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a
-                                        href="javascript:void(0)"
-                                        className="font-heading text-dark-text hover:text-primary text-base dark:hover:text-white"
-                                    >
-                                        Pricing
+                                        API REST
                                     </a>
                                 </li>
                             </ul>
@@ -156,7 +140,7 @@ export default function Footer() {
                             <h3
                                 className="font-heading text-dark mb-9 text-2xl font-medium dark:text-white"
                             >
-                                Support
+                                A propos
                             </h3>
 
                             <ul className="space-y-4">
@@ -165,7 +149,7 @@ export default function Footer() {
                                         href="javascript:void(0)"
                                         className="font-heading text-dark-text hover:text-primary text-base dark:hover:text-white"
                                     >
-                                        Company
+                                        Qui suis-je ?
                                     </a>
                                 </li>
                                 <li>
@@ -173,23 +157,7 @@ export default function Footer() {
                                         href="javascript:void(0)"
                                         className="font-heading text-dark-text hover:text-primary text-base dark:hover:text-white"
                                     >
-                                        Press media
-                                    </a>
-                                </li>
-                                <li>
-                                    <a
-                                        href="javascript:void(0)"
-                                        className="font-heading text-dark-text hover:text-primary text-base dark:hover:text-white"
-                                    >
-                                        Our Blog
-                                    </a>
-                                </li>
-                                <li>
-                                    <a
-                                        href="javascript:void(0)"
-                                        className="font-heading text-dark-text hover:text-primary text-base dark:hover:text-white"
-                                    >
-                                        Contact Us
+                                        Mentions légales
                                     </a>
                                 </li>
                             </ul>
@@ -201,7 +169,7 @@ export default function Footer() {
                             <h3
                                 className="font-heading text-dark mb-9 text-2xl font-medium dark:text-white"
                             >
-                                Get in touch
+                                Support
                             </h3>
 
                             <div className="space-y-7">
@@ -216,17 +184,7 @@ export default function Footer() {
                                         +(1) 123 456 7890
                                     </a>
                                 </div>
-                                <div>
-                                    <p className="font-heading text-dark-text text-base">
-                                        Need live support?
-                                    </p>
-                                    <a
-                                        href="mailto:support@domain.com"
-                                        className="font-heading text-dark hover:text-primary dark:hover:text-primary text-base dark:text-white"
-                                    >
-                                        support@domain.com
-                                    </a>
-                                </div>
+                            
                             </div>
                         </div>
                     </div>
@@ -299,7 +257,7 @@ export default function Footer() {
                                 <p
                                     className="font-heading text-dark-text text-center text-base lg:text-right"
                                 >
-                                    © 2025 Startup. All rights reserved
+                                    © 2025 Cyril VELLA. Tous droits réservés.
                                 </p>
                             </div>
                         </div>
