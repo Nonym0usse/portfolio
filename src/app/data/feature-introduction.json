@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Performances & rapidité",
+    "description": "Des sites ultra-rapides grâce à Next.js, pour améliorer l’expérience utilisateur et booster le référencement.",
+    "delay": ".2s"
+  },
+  {
+    "title": "Design responsive & moderne",
+    "description": "Interfaces soignées, 100% adaptatives, optimisées pour mobile, tablette et desktop.",
+    "delay": ".25s"
+  },
+  {
+    "title": "Gestion simple du contenu",
+    "description": "Intégration possible avec un CMS Headless pour vous permettre de gérer vos contenus facilement, sans développeur.",
+    "delay": ".3s"
+  },
+  {
+    "title": "Sécurité & fiabilité",
+    "description": "Données protégées, authentification sécurisée, bonnes pratiques backend : votre projet est entre de bonnes mains.",
+    "delay": ".35s"
+  },
+  {
+    "title": "Code sur-mesure & évolutif",
+    "description": "Pas de thème tout fait. Chaque ligne de code est pensée pour votre besoin réel, prête à évoluer avec vous.",
+    "delay": ".4s"
+  },
+  {
+    "title": "Accompagnement complet",
+    "description": "De la stratégie à la mise en ligne, vous avez un seul interlocuteur, réactif et à l’écoute de vos objectifs.",
+    "delay": ".45s"
+  }
+]
